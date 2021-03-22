@@ -13,8 +13,8 @@ themeConfig:
     - text: About
       link: /about.html
   social:
-    twitter: saber_land
-    github: egoist
+    twitter: 
+    github: equnee
     rss: true
 
 plugins:
